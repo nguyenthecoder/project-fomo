@@ -1,0 +1,3 @@
+9/18/2021, 6:52 PM, Reading news analysis methods on Google scholars. Thinking about building a google search bot to look up news wihout relying on an API of any kind. NewsPlease extractor can extract news content from URL 
+
+
